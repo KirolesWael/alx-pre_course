@@ -1,0 +1,10 @@
+#!/bin/bash
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo "ALX School is so cool!"
+=======
+echo "ALX"
+>>>>>>> refs/remotes/origin/master
+=======
+echo "ALX"
+>>>>>>> 6ffaf6cd72aed6555fdaabc9b3b78a35b66a25b8
